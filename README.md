@@ -23,7 +23,7 @@ Harware SetUp:
 
 
 
-![tempImage4B6Dax](https://user-images.githubusercontent.com/57843464/104767500-40b11980-573a-11eb-86c0-4c2d0ad3e75a.gif)
+![tempImage4B6Dax](https://user-images.githubusercontent.com/57843464/104767500-40b11980-573a-11eb-86c0-4c2d0ad3e75a.gif){:height="36px" width="36px"}
 
 
 
@@ -33,4 +33,4 @@ Harware SetUp:
 
 
 
-![tempImageuhSKAo](https://user-images.githubusercontent.com/57843464/104767516-4870be00-573a-11eb-8db3-bcdbcf9d50e5.gif)
+![tempImageuhSKAo](https://user-images.githubusercontent.com/57843464/104767516-4870be00-573a-11eb-8db3-bcdbcf9d50e5.gif){:height="36px" width="36px"}
