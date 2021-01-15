@@ -10,7 +10,7 @@ Here are some steps to help you set up your arduino :)
    Now go Sketch -> Include Library -> Manage Libraries.
    Here another window will open, search "Firmata", and install the newest version if it is not already.
    Lastly, go back into the IDE and click the little right arrow (next to the check mark) called UPLOAD (make sure your arduino is plugged in and under tools board, processor, and port are all selected correctly).
-3. Set up your hardeware in accordance with the pictures provided on GITHUB (notes in code itself to help).
+3. Set up your hardware in accordance with the pictures provided on GITHUB (see notes in code itself on where to connect wires to Arduino UNO).
 4. Lastly you need to replace the name of the USB port in the code with your own (replace '/dev/cu.usbmodem14301' in board = Arduino('/dev/cu.usbmodem14301')).
    This is pretty easy to do, in the Arduino IDE the name of your connected USB port should be listed next to port under Tools.
    After this is done you should be able to run the program directly from IDLE!
