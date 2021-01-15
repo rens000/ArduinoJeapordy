@@ -14,3 +14,13 @@ Here are some steps to help you set up your arduino :)
 4. Lastly you need to replace the name of the USB port in the code with your own (replace '/dev/cu.usbmodem14301' in board = Arduino('/dev/cu.usbmodem14301')).
    This is pretty easy to do, in the Arduino IDE the name of your connected USB port should be listed next to port under Tools.
    After this is done you should be able to run the program directly from IDLE!
+   
+   
+   
+   
+![tempImage4B6Dax](https://user-images.githubusercontent.com/57843464/104767500-40b11980-573a-11eb-86c0-4c2d0ad3e75a.gif)
+
+
+
+
+![tempImageuhSKAo](https://user-images.githubusercontent.com/57843464/104767516-4870be00-573a-11eb-8db3-bcdbcf9d50e5.gif)
