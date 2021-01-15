@@ -19,8 +19,8 @@ Here are some steps to help you set up your arduino :)
 HARDWARE SETUP:
 
 
-
-<img src="https://user-images.githubusercontent.com/57843464/104767500-40b11980-573a-11eb-86c0-4c2d0ad3e75a.gif" alt="Harware SetUp" width="400"/> <img src="https://user-images.githubusercontent.com/57843464/104767516-4870be00-573a-11eb-8db3-bcdbcf9d50e5.gif" alt="Harware SetUp" width="400"/>
+<img src="https://user-images.githubusercontent.com/57843464/104767516-4870be00-573a-11eb-8db3-bcdbcf9d50e5.gif" alt="Harware SetUp" width="400"/>
+<img src="https://user-images.githubusercontent.com/57843464/104767500-40b11980-573a-11eb-86c0-4c2d0ad3e75a.gif" alt="Harware SetUp" width="400"/> 
 
 
 
