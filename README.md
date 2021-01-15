@@ -17,8 +17,18 @@ Here are some steps to help you set up your arduino :)
    
    
    
-   
+
+
+Harware SetUp:
+
+
+
 ![tempImage4B6Dax](https://user-images.githubusercontent.com/57843464/104767500-40b11980-573a-11eb-86c0-4c2d0ad3e75a.gif)
+
+
+
+
+
 
 
 
